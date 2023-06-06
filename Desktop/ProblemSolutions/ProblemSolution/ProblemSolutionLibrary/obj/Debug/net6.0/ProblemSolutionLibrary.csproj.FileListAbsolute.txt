@@ -1,0 +1,12 @@
+C:\Users\79533\Desktop\ProblemSolution\bin\Debug\net6.0\ProblemSolutionLibrary.deps.json
+C:\Users\79533\Desktop\ProblemSolution\bin\Debug\net6.0\ProblemSolutionLibrary.dll
+C:\Users\79533\Desktop\ProblemSolution\bin\Debug\net6.0\ProblemSolutionLibrary.pdb
+C:\Users\79533\Desktop\ProblemSolution\obj\Debug\net6.0\ProblemSolutionLibrary.csproj.AssemblyReference.cache
+C:\Users\79533\Desktop\ProblemSolution\obj\Debug\net6.0\ProblemSolutionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79533\Desktop\ProblemSolution\obj\Debug\net6.0\ProblemSolutionLibrary.AssemblyInfoInputs.cache
+C:\Users\79533\Desktop\ProblemSolution\obj\Debug\net6.0\ProblemSolutionLibrary.AssemblyInfo.cs
+C:\Users\79533\Desktop\ProblemSolution\obj\Debug\net6.0\ProblemSolutionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\79533\Desktop\ProblemSolution\obj\Debug\net6.0\ProblemSolutionLibrary.dll
+C:\Users\79533\Desktop\ProblemSolution\obj\Debug\net6.0\refint\ProblemSolutionLibrary.dll
+C:\Users\79533\Desktop\ProblemSolution\obj\Debug\net6.0\ProblemSolutionLibrary.pdb
+C:\Users\79533\Desktop\ProblemSolution\obj\Debug\net6.0\ref\ProblemSolutionLibrary.dll
